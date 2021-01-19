@@ -12,7 +12,7 @@ namespace FactoryMethodPattern
 
         start:
 
-            Console.Clear();
+            Console.WriteLine("\n\n\n\n\n");
             Console.WriteLine("Which store to visit?");
             string storeType = Console.ReadLine();
 
