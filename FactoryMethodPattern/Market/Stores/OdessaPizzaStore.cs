@@ -10,15 +10,12 @@ namespace FactoryMethodPattern.Market.Stores
     {
         public override IPizza CreatePizza(string type)
         {
-            switch (type)
+            return type switch
             {
-                case "Odessa":
-                    break;
-                case "Kiev":
-                    break;
-                default: 
-                    break;
-            }
+                "Cheese" => new OdessaCheesePizza(),
+                "Clam" => new OdessaClamPizza(),
+                _ => null,
+            };
         }
     }
 }

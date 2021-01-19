@@ -21,7 +21,7 @@ namespace FactoryMethodPattern.Market.Products
             Console.WriteLine("Cutting as triangles...");
         }
 
-        public void Prepare()
+        public virtual void Prepare()
         {
             Console.WriteLine("Preparing in the capital...");
         }
