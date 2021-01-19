@@ -12,6 +12,11 @@ namespace FactoryMethodPattern.Market.Stores
         {
             IPizza pizza = CreatePizza(type);
 
+            if(pizza is null)
+            {
+                Console.WriteLine("No pizza in the warehouse.");
+            }
+
             pizza.Prepare();
             pizza.Bake();
             pizza.Cut();
