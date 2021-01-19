@@ -8,10 +8,11 @@ namespace FactoryMethodPattern
     {
         static void Main(string[] args)
         {
-            // The Factory Method Pattern
+        // The Factory Method Pattern
 
-            start:
+        start:
 
+            Console.Clear();
             Console.WriteLine("Which store to visit?");
             string storeType = Console.ReadLine();
 
