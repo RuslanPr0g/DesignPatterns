@@ -6,7 +6,9 @@ namespace FactoryMethodPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // The Factory Method Pattern
+
+
         }
     }
 }
