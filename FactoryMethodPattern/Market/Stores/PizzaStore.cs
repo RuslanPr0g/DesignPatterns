@@ -15,6 +15,8 @@ namespace FactoryMethodPattern.Market.Stores
             if(pizza is null)
             {
                 Console.WriteLine("No pizza in the warehouse.");
+
+                return null;
             }
 
             pizza.Prepare();
