@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AbstractFactory.Client
+namespace AbstractFactory
 {
     class Client
     {

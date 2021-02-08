@@ -6,7 +6,11 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AbstractFactory factory = new ConcreteFactory1();
+
+            Client client = new Client(factory);
+
+            client.Run();
         }
     }
 }
