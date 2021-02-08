@@ -6,8 +6,8 @@ namespace AbstractFactory.Client
 {
     class Client
     {
-        private AbstractProductA abstractProductA;
-        private AbstractProductB abstractProductB;
+        private readonly AbstractProductA abstractProductA;
+        private readonly AbstractProductB abstractProductB;
 
         public Client(AbstractFactory factory)
         {
@@ -16,6 +16,8 @@ namespace AbstractFactory.Client
         }
 
         public void Run()
-        { }
+        {
+            Console.WriteLine("Running...");
+        }
     }
 }

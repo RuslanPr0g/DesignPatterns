@@ -2,18 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace AbstractFactory.Factory
+namespace AbstractFactory
 {
     class ConcreteFactory1 : AbstractFactory
     {
         public override AbstractProductA CreateProductA()
         {
-            return new ProductA1();
+            return new ConcreteProductA1();
         }
 
         public override AbstractProductB CreateProductB()
         {
-            return new ProductB1();
+            return new ConcreteProductB1();
         }
     }
 }
