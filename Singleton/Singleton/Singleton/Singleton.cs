@@ -4,18 +4,19 @@ using System.Text;
 
 namespace Singleton
 {
-    class Singleton
+    public class Singleton
     {
-        private static Singleton instance;
+        private static readonly Singleton instance = new Singleton();
+
+        public string Date { get; private set; }
 
         private Singleton()
         {
+            Date = System.DateTime.Now.TimeOfDay.ToString();
         }
 
-        public static Singleton getInstance()
+        public static Singleton GetInstance()
         {
-            if (instance == null)
-                instance = new Singleton();
             return instance;
         }
     }
