@@ -10,6 +10,8 @@ namespace AbstractFactory
 
             Client client = new Client(factory);
 
+            Console.WriteLine("Program started...");
+
             client.Run();
         }
     }
