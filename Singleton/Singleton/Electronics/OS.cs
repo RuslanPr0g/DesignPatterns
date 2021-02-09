@@ -9,6 +9,7 @@ namespace Singleton
         private static OS instance;
 
         public string Name { get; private set; }
+        private static object syncRoot = new Object();
 
         protected OS(string name)
         {
@@ -18,7 +19,13 @@ namespace Singleton
         public static OS getInstance(string name)
         {
             if (instance == null)
-                instance = new OS(name);
+            {
+                lock (syncRoot)
+                {
+                    if (instance == null)
+                        instance = new OS(name);
+                }
+            }
             return instance;
         }
     }
