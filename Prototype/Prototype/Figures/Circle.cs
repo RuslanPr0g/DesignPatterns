@@ -9,7 +9,9 @@ namespace Prototype
     class Circle : IFigure
     {
         int radius;
+
         public Point Point { get; set; }
+
         public Circle(int r, int x, int y)
         {
             radius = r;
@@ -35,6 +37,7 @@ namespace Prototype
 
                 figure = binFormatter.Deserialize(tempStream);
             }
+
             return figure;
         }
 
