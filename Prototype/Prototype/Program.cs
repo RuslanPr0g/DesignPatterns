@@ -6,13 +6,9 @@ namespace Prototype
     {
         static void Main(string[] args)
         {
-            IFigure figure = new Rectangle(30, 40);
-            IFigure clonedFigure = figure.Clone();
-            figure.GetInfo();
-            clonedFigure.GetInfo();
-
-            figure = new Circle(30);
-            clonedFigure = figure.Clone();
+            Circle figure = new Circle(30, 50, 60);
+            Circle clonedFigure = figure.Clone() as Circle;
+            figure.Point.X = 100;
             figure.GetInfo();
             clonedFigure.GetInfo();
 
