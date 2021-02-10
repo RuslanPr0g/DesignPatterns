@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Prototype
 {
+    [Serializable]
     class Point
     {
         public int X { get; set; }
