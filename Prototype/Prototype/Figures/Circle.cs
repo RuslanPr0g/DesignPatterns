@@ -13,7 +13,8 @@ namespace Prototype
 
         public IFigure Clone()
         {
-            return new Circle(this.radius);
+            //return new Circle(this.radius);
+            return this.MemberwiseClone() as IFigure;
         }
 
         public void GetInfo()

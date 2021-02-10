@@ -15,7 +15,8 @@ namespace Prototype
 
         public IFigure Clone()
         {
-            return new Rectangle(this.width, this.height);
+            //return new Rectangle(this.width, this.height);
+            return this.MemberwiseClone() as IFigure;
         }
 
         public void GetInfo()
