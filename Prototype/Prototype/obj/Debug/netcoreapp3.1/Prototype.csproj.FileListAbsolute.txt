@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\theru\Desktop\DesignPatterns\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
