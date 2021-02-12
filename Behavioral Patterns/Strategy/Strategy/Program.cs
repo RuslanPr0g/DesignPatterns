@@ -6,7 +6,12 @@ namespace Strategy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Car auto = new Car(4, "Volvo", new PetrolMove());
+            auto.Move();
+            auto.Movable = new ElectricMove();
+            auto.Move();
+
+            Console.ReadLine();
         }
     }
 }
