@@ -4,7 +4,10 @@
     {
         ICommand command;
 
-        public Pult() { }
+        public Pult()
+        {
+            command = new NoCommand();
+        }
 
         public void SetCommand(ICommand com)
         {
