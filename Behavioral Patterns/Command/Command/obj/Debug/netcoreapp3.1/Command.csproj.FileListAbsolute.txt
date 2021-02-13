@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.exe
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.dll
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\bin\Debug\netcoreapp3.1\Command.pdb
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.dll
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.pdb
+C:\Users\theru\Desktop\DesignPatterns\Behavioral Patterns\Command\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache

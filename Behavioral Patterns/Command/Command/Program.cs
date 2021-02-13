@@ -12,6 +12,10 @@ namespace Command
             pult.PressButton();
             pult.PressUndo();
 
+            Microwave microwave = new Microwave();
+            pult.SetCommand(new MicrowaveCommand(microwave, 5000));
+            pult.PressButton();
+
             Console.Read();
         }
     }
