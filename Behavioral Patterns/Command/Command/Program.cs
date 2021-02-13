@@ -6,15 +6,19 @@ namespace Command
     {
         static void Main(string[] args)
         {
-            Pult pult = new Pult();
             TV tv = new TV();
-            pult.SetCommand(new TVOnCommand(tv));
-            pult.PressButton();
-            pult.PressUndo();
-
-            Microwave microwave = new Microwave();
-            pult.SetCommand(new MicrowaveCommand(microwave, 5000));
-            pult.PressButton();
+            Volume volume = new Volume();
+            MultiPult mPult = new MultiPult();
+            mPult.SetCommand(0, new TVOnCommand(tv));
+            mPult.SetCommand(1, new VolumeCommand(volume));
+            mPult.PressButton(0);
+            mPult.PressButton(1);
+            mPult.PressButton(1);
+            mPult.PressButton(1);
+            mPult.PressUndoButton();
+            mPult.PressUndoButton();
+            mPult.PressUndoButton();
+            mPult.PressUndoButton();
 
             Console.Read();
         }
