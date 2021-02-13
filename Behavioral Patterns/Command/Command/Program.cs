@@ -6,7 +6,13 @@ namespace Command
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Pult pult = new Pult();
+            TV tv = new TV();
+            pult.SetCommand(new TVOnCommand(tv));
+            pult.PressButton();
+            pult.PressUndo();
+
+            Console.Read();
         }
     }
 }
