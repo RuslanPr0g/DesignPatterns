@@ -7,7 +7,7 @@
             if (condition == 2)
             {
             }
-s            else if (Successor != null)
+            else if (Successor != null)
             {
                 Successor.HandleRequest(condition);
             }
