@@ -6,7 +6,21 @@ namespace Memento
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Hero hero = new Hero();
+            
+            hero.Shoot();
+
+            GameHistory game = new GameHistory();
+
+            game.History.Push(hero.SaveState()); 
+
+            hero.Shoot();
+
+            hero.RestoreState(game.History.Pop());
+
+            hero.Shoot();
+
+            Console.Read();
         }
     }
 }
