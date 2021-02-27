@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
