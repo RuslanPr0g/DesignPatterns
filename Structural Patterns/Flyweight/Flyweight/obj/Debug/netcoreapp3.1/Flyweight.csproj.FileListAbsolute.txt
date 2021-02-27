@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache
