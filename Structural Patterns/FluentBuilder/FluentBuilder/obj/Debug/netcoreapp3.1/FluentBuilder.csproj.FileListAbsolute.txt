@@ -1,0 +1,13 @@
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.exe
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.deps.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.runtimeconfig.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.runtimeconfig.dev.json
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.dll
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\bin\Debug\netcoreapp3.1\FluentBuilder.pdb
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.csprojAssemblyReference.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.AssemblyInfoInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.AssemblyInfo.cs
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.csproj.CoreCompileInputs.cache
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.dll
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.pdb
+C:\Users\theru\Desktop\DesignPatterns\Structural Patterns\FluentBuilder\FluentBuilder\obj\Debug\netcoreapp3.1\FluentBuilder.genruntimeconfig.cache
